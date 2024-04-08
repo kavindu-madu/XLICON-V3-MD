@@ -50,31 +50,31 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'Devil World' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '94772411839' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'Devil Madu' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://www.youtube.com/watch?v=cN8IdhBRHh0"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://wa.link/jvf6w5"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "© dₑᵥᵢₗ ₘₐdᵤ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "𝖉𝖊𝖛𝖎𝖑 𝖒𝖆𝖉𝖚"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝓭𝓮𝓿𝓲𝓵 𝓶𝓪𝓭𝓾"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "94772411839@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["94772411839"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
@@ -83,7 +83,7 @@ global.hituet = 0
 //________________________________________________________________________________________________________
 global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
-global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
+global.typereply = process.env.REPLY_TYPE || 'v3' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
 global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
 //________________________________________________________________________________________________________
@@ -93,7 +93,7 @@ global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
 global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
-global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
+global.autoswview = process.env.AUTO_STATUS_SEEN || false //auto status/story view
 //________________________________________________________________________________________________________
 global.adminevent = process.env.ANNOUNCE_MSG  || true //show promote/demote message
 //________________________________________________________________________________________________________
